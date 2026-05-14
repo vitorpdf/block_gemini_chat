@@ -1,4 +1,4 @@
-# block_gemini_chat — Plugin de Bloco para Moodle
+# Plugin de Bloco para Moodle
 
 Um plugin que permite aos usuários fazer perguntas ao Gemini dentro do Moodle.
 
