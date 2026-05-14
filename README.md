@@ -6,7 +6,7 @@ Um plugin que permite aos usuários fazer perguntas ao Gemini dentro do Moodle.
 
 - 💬 Interface conversacional com layout de balões de chat
 - ⚙️ Configurações de administrador: chave da API, temperatura, máximo de tokens, prompt do sistema
-- 🔒 Seguro: protegido por `require_login()` + `require_sesskey()`
+- 🔒 protegido por `require_login()` + `require_sesskey()`
 
 ---
 
